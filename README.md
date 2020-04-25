@@ -1,4 +1,8 @@
 # music.youtube_PyQt5_display
+
+[![Python 3.8.2](https://img.shields.io/badge/Telegram-Channel-orange)](https://www.python.org)
+
+[![PyQt5](https://img.shields.io/badge/Telegram-Channel-orange)]
 #### Description
 
 This application displays the Youtube Music webpage
