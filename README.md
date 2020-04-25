@@ -8,12 +8,12 @@ This application displays the Youtube Music webpage
 
 clone the repository 
 
-' git clone https://github.com/brthngnsh/music.youtube_PyQt5_display.git '
+`git clone https://github.com/brthngnsh/music.youtube_PyQt5_display.git`
 
 
 execute by running 
 
-' dist/youmu '
+`$ dist/youmu`
 
 
 
